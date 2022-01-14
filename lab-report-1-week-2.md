@@ -1,3 +1,4 @@
+[Home](index.html)
 ## Installing VS Code
 
 * First you want to go to the [Visual Studio downlaods](https://code.visualstudio.com/download) page
