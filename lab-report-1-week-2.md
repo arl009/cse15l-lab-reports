@@ -1,4 +1,4 @@
-[Home](index.html)
+[Home](https://arl009.github.io/cse15l-lab-reports/)
 ## Installing VS Code
 
 * First you want to go to the [Visual Studio downlaods](https://code.visualstudio.com/download) page
