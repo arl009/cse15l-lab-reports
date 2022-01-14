@@ -34,3 +34,4 @@
 ## Optimizing Remote Running
 * After setting an SSH key, you should be able to scp and ssh without typing in your password
 * You can use semicolons to run multiple lines in the terminal
+![Image](Image9.PNG)
