@@ -24,7 +24,7 @@
 * use the ls command to check if it is in your file directory
 * then run the file using javac and java
 
-![Image](imageseven.PNG.png)
+![Image](imageseven.PNG)
 
 ## Setting an SSH Key
 * do ssh-keygen to create an ssh key
