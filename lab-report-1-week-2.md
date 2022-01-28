@@ -36,5 +36,7 @@
 ## Optimizing Remote Running
 * After setting an SSH key, you should be able to scp and ssh without typing in your password
 * You can use semicolons to run multiple lines in the terminal
+* If you already compiled and ran the java file using javac and java, you can use arrow keys to use previous commands.
+* You only need to press 6 keys to run your code: up up enter up up enter
 
 ![Image](image9.PNG)
