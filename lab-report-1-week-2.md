@@ -17,6 +17,8 @@
 ## Trying Some Commands
 * Try running some commands like cd, ls, and cp
 * It should look something like this
+
+
 ![Image](Image3.PNG)
 
 ## Moving Files with `scp`
