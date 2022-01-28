@@ -27,7 +27,7 @@
 ![Image](imageseven.PNG)
 
 ## Setting an SSH Key
-* do ssh-keygen to create an ssh key
+* do `ssh-keygen` to create an ssh key
 * you should get something like the image below
 
 ![Image](image8.PNG)
