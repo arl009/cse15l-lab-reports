@@ -1,6 +1,7 @@
 [Home](https://arl009.github.io/cse15l-lab-reports/)
 # Code change 1
 ![image](Image_Twelve.PNG)
+
 [broken-file.md](https://raw.githubusercontent.com/arl009/markdown-parse/main/broken-file.md)
 
 Symptom:
@@ -10,6 +11,7 @@ Because there were a pair of brackets inside the first pair of brackets, it only
 
 # Code change 2
 ![image](Image_Eleven.PNG)
+
 [broken-file1.md](https://raw.githubusercontent.com/arl009/markdown-parse/main/broken-file1.md)
 
 Symptom:
@@ -19,6 +21,7 @@ The program would output anything inside paranthesis after a pair of brackets in
 
 # Code change 3
 ![image](Image_Ten.PNG)
+
 [test-file6.md](https://raw.githubusercontent.com/arl009/markdown-parse/main/test-file6.md)
 
 Symptom:
