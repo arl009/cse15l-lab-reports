@@ -49,4 +49,4 @@ Reviewed output:
 
 ![image](lab4img6.PNG)
 
-I think it would take less than 10 lines to fix all related cases that have newlines in brackets and parentheses. All you would need to do is count if the amount of new lines for the next bracket is greater than 1 to not add it to the list of links.
+I think it would take less than 10 lines to fix all related cases that have newlines in brackets and parentheses. All you would need to do is count if the amount of new lines for the next bracket or parentheses is greater than 1 to not add it to the list of links.
